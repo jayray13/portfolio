@@ -1,2 +1,2 @@
-# portfolio
-포트폴리오
+# 정재열
+## :pushpin: Intro
