@@ -60,6 +60,7 @@
 >6. 문의 관리
 >
 >      <img width= "70%" src= https://github.com/jayray13/portfolio/assets/111845731/65c32b1f-b584-4713-ba86-4494fa9b5c2e>
+></br>
 >
 >
 >7. 공지사항 관리
