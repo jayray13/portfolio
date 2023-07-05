@@ -22,5 +22,65 @@
 >[프로젝트 상세 보기](https://github.com/Woonghyeon13/ggamedori) 클릭  
 >(상세 보기를 가시면 완성된 웹페이지와 관리자 계정이 준비되어 있습니다.)
 >
+></br>
+><관리자 페이지 기능 시연>
+></br>
+></br>
+>
+>1. 주문내역 관리
+>
+>      <img width= "70%" src= https://github.com/jayray13/portfolio/assets/111845731/e9e01c23-ade3-4740-948b-3c45d482ae40>
+></br>
+>
+>
+>2. 환불 관리
+>
+>      <img width= "70%" src= https://github.com/jayray13/portfolio/assets/111845731/758cb725-4a19-4543-9d04-d11d12a1c7b6>
+></br>
+>
+>
+>3. 캐러셀 설정
+>
+>      <img width= "70%" src= https://github.com/jayray13/portfolio/assets/111845731/692f4191-c147-456e-b281-1c6e16bf89fe>
+></br>
+>
+>
+>4. 광고 설정
+>
+>      <img width= "70%" src= https://github.com/jayray13/portfolio/assets/111845731/42cf49a3-6e5b-432d-bdc3-e4ddb6d41380>
+></br>
+>
+>
+>5. 카테고리 이미지 설정
+>
+>      <img width= "70%" src= https://github.com/jayray13/portfolio/assets/111845731/701b0e1d-26c6-4a7d-9359-13834fb56f21>
+></br>
+>
+>
+>6. 문의 관리
+>
+>      <img width= "70%" src= https://github.com/jayray13/portfolio/assets/111845731/65c32b1f-b584-4713-ba86-4494fa9b5c2e>
+>
+>
+>7. 공지사항 관리
+>
+>      <img width= "70%" src= https://github.com/jayray13/portfolio/assets/111845731/4a4cf1ce-bf8f-4ec1-8600-d23af6f59c64>
+></br>
+>
+>
+>8. 회원관리
+>
+>      <img width= "70%" src= https://github.com/jayray13/portfolio/assets/111845731/73bcaf6b-eb34-42ad-95d4-ea735bc4f9f7>
+>
+>      8-a. 정지된 회원 로그인 시연
+>
+>      <img width= "70%" src= https://github.com/jayray13/portfolio/assets/111845731/78ab9a9d-080d-4dc1-9786-9524cf90e547>
+>
+>      8-b. 탈퇴 처리된 회원 로그인 시연
+>
+>      <img width= "70%" src= https://github.com/jayray13/portfolio/assets/111845731/ddb1696f-2ebb-4615-9782-c4478a9fe9e5>
+>
+>
 
 ---
+
